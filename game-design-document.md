@@ -3,7 +3,7 @@
 ![game-image.png](./game-image.png)
 
 **🎮 Game Name:** Grab Fruits!  
-**👤 Role:** Designed, developed, and tested solo by [Yoko Saka](https://github.com/yocosaka)  
+**👤 Role:** Designed, developed, and tested solo by [Yoko Shiina](https://github.com/yokoworks)  
 **🧠 Focus:** UX-driven game flow, intuitive feedback, and playful micro-interactions
 
 ---
