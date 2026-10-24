@@ -49,7 +49,7 @@ This project demonstrates how I apply **UX thinking to code** — making intuiti
 
 ## 👤 Author
 
-**Yoko Saka**  
+**Yoko Shiina**  
 Frontend Developer × UX Thinker
 
 - GitHub: [yoko-vicky](https://github.com/yoko-vicky)
