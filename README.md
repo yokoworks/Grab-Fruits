@@ -50,12 +50,12 @@ This project demonstrates how I apply **UX thinking to code** — making intuiti
 ## 👤 Author
 
 **Yoko Shiina**  
-Frontend Developer × UX Thinker
+UX Architect & Software Engineer
 
-- GitHub: [yoko-vicky](https://github.com/yoko-vicky)
-- LinkedIn: [Yoko Saka](https://www.linkedin.com/in/yoko-vicky/)
-- Portfolio: [View My Work](https://www.yokoworks.dev/)
-- 
+- GitHub: [yokoworks](https://github.com/yokoworks)
+- LinkedIn: [Yoko Shiina](https://www.linkedin.com/in/yokoworks/)
+- Portfolio: [View My Work](https://ux.solastudio.studio/)
+
 ---
 
 ## 🤝 Contributing
